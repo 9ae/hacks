@@ -1,3 +1,31 @@
+# Competitions
+
+## Open Space Buildathon (2016)
+As part of the Messagener team, I worked with them to visualize its orbit
+See the [video presentation here](https://www.youtube.com/watch?v=03u0Mi6cXgU)
+
+## Tech Crunch (2015)
+Purview
+
+## Space Apps (2015)
+Glove
+
+## Photo Hack Day (2014)
+Here & Now
+
+## Video Hack
+DejaVu
+
+## Fabricjs (2013)
+(Koch Snowflake)[http://jsfiddle.net/arix/RVW3k/embedded/result/]
+
+
+# Side Projects
+
+## Cosmosis VR
+I helped my roommate adapt his Cosmosis project for web-vr.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/acelix/hacks/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
